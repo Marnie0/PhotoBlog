@@ -1,0 +1,70 @@
+/* body {
+    font-family: 'Splash', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+     background-color: #151b29; 
+} */
+
+/* 
+.transitions {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    transition: background-color 2s;
+    transition: 2s;
+}
+
+.transitions:hover {
+    background-color: darkgreen;
+    border-radius: 50%;
+    background: url(Image/BGani.jpeg) no-repeat;
+    transform: skew(25deg);
+    transform: translatex(125px);
+    transform: rotate(90deg)scaley(1.5);
+}
+
+button {
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: all 0.25s;
+}
+
+button:hover {
+    border-color: #f1ff5c;
+    color: white;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
+
+#BG {
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+} */
+body {
+    background-color: black;
+}
+
+img {
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+header {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Kantumruy Pro', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+}
